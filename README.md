@@ -13,6 +13,17 @@ VizMotive Engine is a professional-grade graphics and computation framework, inc
 - First-class support for DirectX 12 and Vulkan
 - Modular architecture enabling flexible extension
 
+## gaussian splatting
+- GaussianSplatting_Detail.cpp
+- ShaderInterop_GaussianSplatting.h
+- ShaderLoader.h
+- ShaderLoader.cpp
+- gsplat_preprocessCS.cs
+- gsplat_indirectCS.cs
+- gsplat_replicateCS.cs
+- gsplat_identifyTileRangeCS.cs
+- gsplat_blendCS.cs
+
 ## Architecture
 
 The engine builds upon the architectural strengths of [Wicked Engine](https://github.com/turanszkij/WickedEngine) and [Filament](https://github.com/google/filament), while introducing advanced rendering capabilities and vision-specific optimizations.
