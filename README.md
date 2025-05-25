@@ -18,11 +18,11 @@ VizMotive Engine is a professional-grade graphics and computation framework, inc
 - ShaderInterop_GaussianSplatting.h
 - ShaderLoader.h
 - ShaderLoader.cpp
-- gsplat_preprocessCS.cs
-- gsplat_indirectCS.cs
-- gsplat_replicateCS.cs
-- gsplat_identifyTileRangeCS.cs
-- gsplat_blendCS.cs
+- gsplat_preprocessCS.hlsl
+- gsplat_indirectCS.hlsl
+- gsplat_replicateCS.hlsl
+- gsplat_identifyTileRangeCS.hlsl
+- gsplat_blendCS.hlsl
 
 ## Architecture
 
