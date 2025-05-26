@@ -25,7 +25,9 @@ VizMotive Engine is a professional-grade graphics and computation framework, inc
 - gsplat_replicateCS.hlsl
 - gsplat_identifyTileRangeCS.hlsl
 - gsplat_blendCS.hlsl
-  
+
+### pipeline figure
+![Group 95 SVG](./Group%2095.svg)
 ## Architecture
 
 The engine builds upon the architectural strengths of [Wicked Engine](https://github.com/turanszkij/WickedEngine) and [Filament](https://github.com/google/filament), while introducing advanced rendering capabilities and vision-specific optimizations.
