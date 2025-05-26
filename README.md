@@ -14,12 +14,13 @@ VizMotive Engine is a professional-grade graphics and computation framework, inc
 - Modular architecture enabling flexible extension
 
 ## gaussian splatting
-
+### pipeline
 - GaussianSplatting_Detail.cpp
 - ModelImporter_SPLAT.cpp
 - ShaderInterop_GaussianSplatting.h
 - ShaderLoader.h
 - ShaderLoader.cpp
+### Compute Shader
 - gsplat_preprocessCS.hlsl
 - gsplat_indirectCS.hlsl
 - gsplat_replicateCS.hlsl
